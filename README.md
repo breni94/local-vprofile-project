@@ -5,16 +5,19 @@
 - MySQL 8
 
 # Technologies 
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Maven
-- JSP
-- Tomcat
-- MySQL
-- Memcached
-- Rabbitmq
-- ElasticSearch
+Hypervisor – Oracle VM VirtualBox
+Automation – Vagrant
+CLI – Git Bash
+IDE – Visual Studio Code
+Architecture of Project Services:
+NGINX, Tomcat, RabbitMQ, Memcached, MySQL
+Architecture of Automated Setup:
+Vagrant, Virtualbox, Git Bash
+
+FLOW:
+separate flow.doc
+
+
 # Database
 Here,we used Mysql DB 
 sql dump file:
